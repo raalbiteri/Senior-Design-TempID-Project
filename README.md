@@ -11,6 +11,7 @@ https://drive.google.com/file/d/1Sl5MljbYzxgSk6NKEtE_rvYIA1PMia-c/view?usp=shari
 
 TempIDStart.ino: Displays temperature taken from temperature sensors on LCD and sends data over Bluetooth to Android app (See example setup)
 https://drive.google.com/file/d/1PF3BqqhQ89prgv7pUqRYRUOuvVIARfjf/view?usp=sharing
+
 https://drive.google.com/file/d/1Zr-LfLh-YRi5bRtmqHU0CsQreeOE02Mg/view?usp=sharing
 
 Credit to Punchthrough for remaining .kt files: https://punchthrough.com/android-ble-guide/#Service-discovery-as-part-of-the-connection-flow
