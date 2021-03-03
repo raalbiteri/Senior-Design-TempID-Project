@@ -17,4 +17,5 @@ https://drive.google.com/file/d/1PF3BqqhQ89prgv7pUqRYRUOuvVIARfjf/view?usp=shari
 https://drive.google.com/file/d/1Zr-LfLh-YRi5bRtmqHU0CsQreeOE02Mg/view?usp=sharing
 
 Credit to Punchthrough for remaining .kt files: https://punchthrough.com/android-ble-guide/#Service-discovery-as-part-of-the-connection-flow
+
 Credit to Team0x0E for TempIDStart file: Jacob Schultz (Temperature Sensors), Brycen Hakes (LCD), Raunel Albiter (Bluetooth,NeoPixel,ADC)
