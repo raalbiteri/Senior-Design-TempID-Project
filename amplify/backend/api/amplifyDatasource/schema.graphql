@@ -1,0 +1,11 @@
+enum Priority {
+  HEALTHY
+  FEVER
+}
+
+type TempUser @model {
+  id: ID!
+  name: String!
+  priority: Priority
+  description: String
+}
