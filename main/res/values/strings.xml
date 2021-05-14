@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TempID</string>
+    <string name="scan">Scan</string>
+    <string name="subscribeNotifications">Subscribe</string>
+    <string name="batteryIndicator">100 %</string>
+    <string name="welcomeMessage">Welcome To TempID Log</string>
+    <string name="average_temp">LOW: N/A</string>
+    <string name="low_temp">AVG: N/A</string>
+    <string name="high_temp">HIGH: N/A</string>
+    <string name="device_mac">Connected to: N/A</string>
+
+    <string name="register">Sign Up</string>
+    <string name="send_verification">Get Verification</string>
+    <string name="button_get">Get My Info</string>
+    <string name="display_text">Welcome to TempId</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+</resources>
